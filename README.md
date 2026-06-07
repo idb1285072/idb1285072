@@ -64,8 +64,8 @@ I am a software engineer focused on developing enterprise-grade applications usi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=idb1285072&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=idb1285072&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idb1285072&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idb1285072&theme=github_dark" />
 </p>
 
 ---
