@@ -1,104 +1,195 @@
-# Hi, I'm Md. Murad Hossen 👋
+<div align="center">
 
-### Full-Stack Software Engineer | .NET & Angular Specialist
+# RAJ KHAN
 
-Building scalable web applications, clean architectures, and modern user experiences.
+### .NET • Angular • Software Engineer
 
----
+Building reliable software for real-world business problems.
 
-## 🚀 About Me
+<br>
 
-I am a software engineer focused on developing enterprise-grade applications using the Microsoft ecosystem and modern frontend technologies.
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-- 💻 Full-Stack Development
-- ⚡ ASP.NET Core Web API
-- 🎨 Angular & TypeScript
-- 🗄️ SQL Server & Database Design
-- ☁️ Cloud & DevOps Enthusiast
-- 📚 Continuous Learner
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+</div>
 
 ---
 
-## 🏗 Architecture & Practices
+## /about
 
-✔ Clean Architecture
+I design and build enterprise applications with a strong focus on:
 
-✔ SOLID Principles
+- Clean Architecture
+- Scalable APIs
+- Modern Angular Frontends
+- Performance Optimization
+- Maintainable Codebases
 
-✔ RESTful APIs
+My goal is simple:
 
-✔ Repository Pattern
-
-✔ CQRS
-
-✔ Dependency Injection
-
-✔ Unit Testing
-
-✔ Agile Development
+> Build software that remains easy to maintain long after it is deployed.
 
 ---
 
-## 📈 GitHub Stats
+## /stack
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idb1285072&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idb1285072&theme=github_dark" />
-</p>
+```txt
+Backend
+├── ASP.NET Core
+├── .NET 8 / .NET 9
+├── C#
+├── Entity Framework Core
+└── SQL Server
+
+Frontend
+├── Angular
+├── TypeScript
+├── RxJS
+└── Angular Material
+
+Architecture
+├── Clean Architecture
+├── CQRS
+├── Repository Pattern
+├── SOLID Principles
+└── REST APIs
+
+DevOps
+├── Azure DevOps
+├── GitHub Actions
+├── Docker
+└── IIS
+```
 
 ---
 
-## 🎯 Current Focus
+## /currently-working-on
+
+```bash
+> Enterprise HR Systems
+> Workflow Automation
+> Angular Dashboards
+> API Performance Improvements
+> System Design & Architecture
+```
+
+---
+
+## /engineering-principles
 
 ```csharp
-public class Developer
+public sealed class Engineering
 {
-    public string Name => "Raj Khan";
+    public string Simplicity => "Prefer simple solutions.";
 
-    public string[] CurrentFocus =>
-    {
-        ".NET 9",
-        "Angular",
-        "Microservices",
-        "Cloud Solutions",
-        "System Design"
-    };
+    public string Maintainability =>
+        "Code is read more than it is written.";
 
-    public string Motto =>
-        "Write clean code. Build scalable systems.";
+    public string Quality =>
+        "If it cannot be tested, it is not finished.";
+
+    public string Goal =>
+        "Create long-term value.";
 }
 ```
 
 ---
 
-## 📫 Connect With Me
+## /featured-projects
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
-- Email: your-email@example.com
+### HR Management Platform
+
+```txt
+Employee Management
+Leave Management
+Attendance Tracking
+Payroll Integration
+Role-Based Access Control
+Reporting & Analytics
+```
+
+### Inventory Management System
+
+```txt
+Purchase Management
+Vendor Management
+Warehouse Operations
+Stock Monitoring
+Audit Tracking
+Business Reporting
+```
+
+### Angular Admin Dashboard
+
+```txt
+Reusable Components
+Advanced Data Tables
+Authentication
+Authorization
+Charts & Reports
+Responsive Design
+```
 
 ---
 
-### "Turning business requirements into reliable software solutions."
+## /tech-radar
+
+```txt
+Expert
+● ASP.NET Core
+● C#
+● Angular
+● SQL Server
+
+Advanced
+● Entity Framework Core
+● TypeScript
+● Azure DevOps
+● REST APIs
+
+Learning
+● Microservices
+● Cloud Architecture
+● Kubernetes
+```
+
+---
+
+## /philosophy
+
+```txt
+Write less.
+Design better.
+Automate repetitive work.
+Measure before optimizing.
+Keep architecture intentional.
+```
+
+---
+
+## /connect
+
+Email
+your-email@example.com
+
+LinkedIn
+linkedin.com/in/your-profile
+
+Portfolio
+your-portfolio.com
+
+GitHub
+github.com/idb1285072
+
+---
+
+<div align="center">
+
+### SOFTWARE ENGINEERING IS NOT ABOUT WRITING CODE.
+
+### IT IS ABOUT SOLVING PROBLEMS ELEGANTLY.
+
+</div>
